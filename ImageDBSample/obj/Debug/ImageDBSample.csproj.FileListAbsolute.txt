@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\ImageDBSample\ImageDBSample\bin\Debug\ImageDBSample.exe.config
+C:\Users\user\source\repos\ImageDBSample\ImageDBSample\bin\Debug\ImageDBSample.exe
+C:\Users\user\source\repos\ImageDBSample\ImageDBSample\bin\Debug\ImageDBSample.pdb
+C:\Users\user\source\repos\ImageDBSample\ImageDBSample\obj\Debug\ImageDBSample.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ImageDBSample\ImageDBSample\obj\Debug\ImageDBSample.Properties.Resources.resources
+C:\Users\user\source\repos\ImageDBSample\ImageDBSample\obj\Debug\ImageDBSample.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ImageDBSample\ImageDBSample\obj\Debug\ImageDBSample.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ImageDBSample\ImageDBSample\obj\Debug\ImageDBSample.exe
+C:\Users\user\source\repos\ImageDBSample\ImageDBSample\obj\Debug\ImageDBSample.pdb
+C:\Users\user\source\repos\ImageDBSample\ImageDBSample\obj\Debug\ImageDBSample.Form1.resources
